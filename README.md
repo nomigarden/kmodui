@@ -8,6 +8,12 @@ The goal of the project is to make kernel module parameter handling more approac
 
 ---
 
+<p align="center">
+  <img src="screenshots/1.png" width="45%" />
+  <img src="screenshots/2.png" width="45%" />
+</p>
+
+
 ## Features
 
 - Fuzzy-searchable list of **currently loaded kernel modules**
